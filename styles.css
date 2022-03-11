@@ -1,0 +1,29 @@
+* {
+    font-family: arial,sans-serif;
+    font-size: 6vmin;
+    margin: 0;
+}
+.container {
+    padding: 5vmin;
+}
+label {
+    display: block;
+}
+.user-item {
+    border: 1px solid #ccc;
+    border-radius: 1vmin;
+    padding: 3vmin;
+    margin: 2vmin 0;
+}
+.user-title {
+    font-weight: bold;
+    font-size: 8vmin;
+}
+.user-description {
+    font-style: italic;
+    font-size: 6vmin;
+}
+
+.hide {
+    display: none; 
+}
